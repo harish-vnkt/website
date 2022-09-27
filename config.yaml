@@ -1,7 +1,7 @@
 baseurl: "/"
 languageCode: "en-us"
 title: "Harish Venkataraman"
-theme: "xmin"
+theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
