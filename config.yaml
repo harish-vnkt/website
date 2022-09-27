@@ -14,19 +14,17 @@ permalinks:
 menu:
   main:
     - name: Home
-      url: ""
+      url: "/"
       weight: 1
-    - name: About
-      url: "about/"
+    - name: Tech Blog
+      url: "tech/"
       weight: 2
-    - name: Categories
-      url: "categories/"
-      weight: 3
     - name: Tags
       url: "tags/"
+      weight: 3
+    - name: About
+      url: "about/"
       weight: 4
-    - name: Subscribe
-      url: "index.xml"
 
 params:
   description: "I blog about different things: deep learning, AI, math, and life in general"
